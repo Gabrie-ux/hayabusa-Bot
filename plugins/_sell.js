@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
         productImage: {
           url: icono
         },
-        title: "Pikachu-bot - Development by Deylin ",
+        title: global.textbot,
         description: " Alquila o compra Pikachu Bot para tus grupos.",
         currencyCode: "USD",
         priceAmount1000: 5000, // 5.00 USD
