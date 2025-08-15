@@ -26,7 +26,3 @@
   <img src="https://github.com/deylin-eliac.png" width="130" height="130" alt="Deylin-eliac"/>
 </a>
 
-
-[15/8, 10:42 a. m.] Barboza: Si
-[15/8, 10:43 a. m.] 𝑬𝒍𝒊𝒂𝒄: Xq si se puede saber
-
