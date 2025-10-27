@@ -28,8 +28,8 @@ global.owner = [
 ['51941247696', '🔰 Creador 🔰', true],
 ['51941247696', 'gabriel', true],
 ['51941247696', 'BʀᴀʏᴀɴXD', true],
-['5212202410659', 'Destroy', true],
-//['numero', 'nombre', true],
+['51941247696', 'gabriel', true],
+['51941247696', 'gabriel', true],
 ];
 
 //si no saben no toquen gracias 🫂 
